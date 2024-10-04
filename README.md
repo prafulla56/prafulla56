@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Prafulla Mishra
-- 🌱 I’m currently Working as Software Tester 
-
-
-<!---
-prafulla56/prafulla56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi! I’m Prafulla Mishra, a passionate Software Tester with 1.5 years of experience in Manual and Mobile Application Testing across Android and iOS platforms. My expertise lies in API Testing,Functional Testing,Regression,Smoke, Sanity, Performance Testing (JMeter), and creating comprehensive test strategies to deliver high-quality software. I thrive on solving complex testing challenges and ensuring seamless user experiences. Currently transitioning into Automation Testing to push the boundaries of efficiency and accuracy in QA. Always eager to learn and contribute to innovative projects!
