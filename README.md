@@ -14,40 +14,49 @@ I'm a dedicated **Software Tester** with 2+ years of hands-on experience in deli
 - ✅ Tools: **Postman**, **JMeter**, **SQL**, **GitLab**, **Trello**, and more  
 - ✅ Continuous learning and sharing knowledge through Medium blogs
 
-🚀 I aim to evolve into a **full-stack QA Engineer**, combining test strategy, automation, and DevOps practices.
+I aim to evolve into a **SDET**, combining test strategy, automation, and DevOps practices.
 
 ---
 
-### ✍️ I Write Blogs on Medium
-
-📚 I enjoy writing about practical testing approaches, automation tools, and QA career growth.  
-Check out my latest posts here:  
-➡️ [https://medium.com/@YOUR-MEDIUM-USERNAME](https://medium.com/@YOUR-MEDIUM-USERNAME)
-
----
-
-### 🌐 Connect with Me
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-MEDIUM-USERNAME)  
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-MEDIUM-USERNAME)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-### 🛠️ Tools & Technologies
+###  Tech Stack:
 
-| Category | Tools |
-|----------|-------|
-| **Languages** | Java, TypeScript, SQL |
-| **Test Automation** | Selenium, TestNG, Playwright, RestAssured |
-| **API & Performance** | Postman, JMeter |
-| **Version Control & DevOps** | GitLab, GitHub |
-| **Project & Test Management** | Trello |
-| **Databases** | MySQL, SQL Server |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FD6C00?style=for-the-badge&logo=testng&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2C2C32?style=for-the-badge&logo=playwright&logoColor=green)
+![RestAssured](https://img.shields.io/badge/RestAssured-007396?style=for-the-badge&logo=restassured&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+###  I Write Blogs on Medium
+
+ I enjoy writing about practical testing approaches, automation tools, and QA career growth.  
+Check out my latest posts here:  
+➡ [https://medium.com/@prafullamishra827](https://medium.com/@prafullamishra827)
+
+---
+
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prafula56&theme=dark&hide_border=true&show_icons=true" width="48%" />
@@ -60,7 +69,7 @@ Check out my latest posts here:
 
 ---
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prafula56&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
@@ -68,7 +77,7 @@ Check out my latest posts here:
 
 ---
 
-### 🔝 Top Contributed Repositories
+###  Top Contributed Repositories
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=prafula56&limit=5&theme=dark&combine_all_yearly_contributions=true" />
