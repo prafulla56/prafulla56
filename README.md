@@ -22,7 +22,7 @@ I aim to evolve into a **SDET**, combining test strategy, automation, and DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prafulla-mishra-b88921267)  
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prafullamishra827)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]prafullamishra827@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafullamishra827@gmail.com)
 
 ---
 
