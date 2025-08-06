@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋 I'm Prafulla Mishra</h1>
+<h1 align="center">Hi there  I'm Prafulla Mishra</h1>
 <p align="center">
   <strong>Software Tester | 2+ Years Experience | Passionate About Automation, API, and Quality Engineering</strong>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm a dedicated **Software Tester** with 2+ years of hands-on experience in delivering high-quality software solutions. I specialize in:
 
@@ -20,9 +20,9 @@ I aim to evolve into a **SDET**, combining test strategy, automation, and DevOps
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-MEDIUM-USERNAME)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prafulla-mishra-b88921267)  
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prafullamishra827)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]prafullamishra827@gmail.com)
 
 ---
 
